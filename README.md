@@ -62,6 +62,12 @@ This project implements a simple ChatRoom application using WebSocket technology
     "content": "Hello, everyone!"
   }
   ```
+ 3. Screenshot
+
+    ![Screenshot 2024-06-25 131255](https://github.com/sammy171207/Chat_Room/assets/96017028/af4fe4bd-5f1c-49f4-9888-fdfec17c15df)
+
+    ![Screenshot 2024-06-25 131319](https://github.com/sammy171207/Chat_Room/assets/96017028/60f7279f-7782-4bb0-ada7-4c5ef40e82ae)
+    
 
 
 
